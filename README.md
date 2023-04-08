@@ -53,3 +53,8 @@ MacOS Ventura 13.0.1 (22A400)
 
 IDE:
 XCode
+
+## Acknowledgement
+ - Bruce Maxwell - codes for reading in images from directory and csv utils files.
+ - Gabor Filter: https://stackoverflow.com/questions/23077105/how-to-apply-gabor-filter-to-images-in-opencv
+ - Law’s Filter: https://courses.cs.washington.edu/courses/cse455/09wi/Lects/lect12.pdf 
